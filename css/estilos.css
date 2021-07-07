@@ -1,15 +1,9 @@
-/*Definimos las propiedades fundamentales de todo el 
- *
- * documento*/
-
 * {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 }
 
-
-/*Variables globales para mi codigo*/
 :root {
 	--purple-dark: #170312;
 	--purple-medium: #33032d;
